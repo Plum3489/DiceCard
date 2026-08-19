@@ -1,7 +1,7 @@
 ---
 title: "DiceCard"
 github: "https://github.com/Plum3489/DiceCard"
-description: "A buisiness-card-sized, battery-powered electronic dice roller :D"
+description: "A business-card-sized, battery-powered electronic dice roller :D"
 created_at: "2026-08-18"
 ---
 
