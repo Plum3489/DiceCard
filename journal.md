@@ -36,3 +36,5 @@ But I still have my code done, and I wont write it again.
 Sadly, I will only now if it works as soon as I can test it on the hardware.
 BUT I AM SO HAPPY TO BE DONE WITH THIS PROJECT!
 I've learned so much and it gave me a lot more motivation to continue to working on my other projects. It was a nice switcharound and made me quite happy <3
+
+Total time spent: ~10 Hours (rounded down)
